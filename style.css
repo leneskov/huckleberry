@@ -31,6 +31,7 @@ p {
 }
 
 .intro-chunk p {
+  min-width: 360px;
   max-width: 60%;
 }
 
@@ -40,7 +41,7 @@ p {
 
 main {
   background-color: hsl(0deg, 0%, 60%);
-  padding: 64px;
+  padding: 64px 0;
   margin-bottom: 64px;
 }
 
